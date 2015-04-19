@@ -1,0 +1,20 @@
+{
+  "name": "alnutile/luminiron",
+  "type": "library",
+  "description": "Library to make Iron Workers out of Lumin",
+  "keywords": ["laravel","lumin","iron","iron_worker"],
+  "homepage": "http://github.com/alnutile/luminiron",
+  "license": "BSD 2-Clause License",
+  "authors": [
+    {
+      "name": "Alfred Nutile",
+      "email": "alfrednutile@gmail.com",
+      "homepage": "http://www.alfrednutile.info",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "iron-io/iron_mq": "2.*",
+    "iron-io/iron_worker": "2.*"
+  }
+}
